@@ -9,16 +9,16 @@ end
 -- modify to your needs 
 local colorList = { 
   {"black", 0x000000},  
-  {"green", 0x008000},
-  {"lightblue", 0x00c0ff}, 
-  {"lightgreen", 0x00ff00}, 
-  {"blue", 0x3333cc},      
-  {"gray", 0x808080},   
   {"red", 0xff0000},        
-  {"magenta", 0xff00ff},
-  {"orange", 0xff8000}, 
-  {"yellow", 0xffff00},    
-  {"white", 0xffffff}
+  {"blue", 0x3333cc},      
+  {"green", 0x008000}
+  -- {"lightblue", 0x00c0ff}, 
+  -- {"lightgreen", 0x00ff00}, 
+  -- {"gray", 0x808080},   
+  -- {"magenta", 0xff00ff},
+  -- {"orange", 0xff8000}, 
+  -- {"yellow", 0xffff00},    
+  -- {"white", 0xffffff}
 }
 
 -- start with first color
